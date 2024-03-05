@@ -24,7 +24,7 @@ header {
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 36px; /* increased font size */
     margin-bottom: 10px;
 }
 
@@ -34,11 +34,12 @@ h1 {
 }
 
 article img {
-    max-width: 100%;
+    max-width: 50%; /* decreased image size */
     margin-bottom: 20px;
 }
 
 article p {
+    font-size: 18px; /* increased font size */
     margin-bottom: 15px;
     line-height: 1.5;
 }
